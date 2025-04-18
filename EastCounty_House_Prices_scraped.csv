@@ -1,0 +1,705 @@
+price,beds,baths,square_feet,address,city_and_zipcode_scrape,city
+"$849,000",3 beds,2 baths,"1,272 sq ft",9616 Halberns Blvd," Santee, CA 92071",Santee
+"$850,000",3 beds,1 bath,"1,484 sq ft",9208 Arnaz Way," Santee, CA 92071",Santee
+"$799,900",3 beds,1 bath,"1,212 sq ft",9138 WILLOWGROVE Ave," Santee, CA 92071",Santee
+"$925,000",3 beds,2 baths,"1,392 sq ft",9134 Inverness Rd," Santee, CA 92071",Santee
+"$849,000",3 beds,2 baths,"1,392 sq ft",10503 Ironwood Ave," Santee, CA 92071",Santee
+"$1,285,000",4 beds,3 baths,"3,012 sq ft",10820 Dakota Ranch Rd," Santee, CA 92071",Santee
+"$759,900",3 beds,2 baths,"1,032 sq ft",9065 Heatherdale St," Santee, CA 92071",Santee
+"$1,297,900",4 beds,3 baths,"2,384 sq ft",8513 Mesa Heights Rd," Santee, CA 92071",Santee
+"$1,498,000",6 beds,3.5 baths,"3,357 sq ft",8741 Weston Rd," Santee, CA 92071",Santee
+"$830,000",3 beds,2 baths,"1,092 sq ft",9548 Abbeyfield Rd," Santee, CA 92071",Santee
+"$839,000",3 beds,2 baths,"1,122 sq ft",9368 Starcrest Dr," Santee, CA 92071",Santee
+"$875,000",3 beds,3 baths,"1,726 sq ft",2410 Nielsen St," El Cajon, CA 92020",Santee
+"$699,000",4 beds,2 baths,"1,694 sq ft",9703 Lutheran Way," Santee, CA 92071",Santee
+"$750,000",3 beds,2 baths,"1,393 sq ft",8313 Carlton Oaks Dr," Santee, CA 92071",Santee
+"$879,000",4 beds,2.5 baths,"1,744 sq ft",8852 Carmir Dr," Santee, CA 92071",Santee
+"$750,000",3 beds,2 baths,"1,177 sq ft",10019 Settle Rd," Santee, CA 92071",Santee
+"$1,050,000",4 beds,2.5 baths,"2,118 sq ft",224 Parkside Pl," Santee, CA 92071",Santee
+"$899,000",4 beds,2 baths,"1,646 sq ft",9985 Delia Ln," Santee, CA 92071",Santee
+"$685,000",3 beds,2 baths,"1,242 sq ft",9540 Jim," Santee, CA 92071",Santee
+"$949,000",4 beds,2 baths,"1,755 sq ft",7902 Poplin Dr," Santee, CA 92071",Santee
+"$869,000",4 beds,2 baths,"1,758 sq ft",9540 Abbeyfield Rd," Santee, CA 92071",Santee
+"$1,099,000",4 beds,2.5 baths,"2,053 sq ft",8761 Robles Dr," San Diego, CA 92119",Santee
+"$949,000",3 beds,2 baths,"1,305 sq ft",8611 Carlton Oaks Dr," Santee, CA 92071",Santee
+"$948,000",3 beds,2 baths,"1,404 sq ft",10442 Ken Ln," Santee, CA 92071",Santee
+"$875,000",3 beds,3 baths,"1,760 sq ft",11054 Columbus St," Santee, CA 92071",Santee
+"$1,265,000",4 beds,3 baths,"2,384 sq ft",10349 River Blf," Santee, CA 92071",Santee
+"$899,000",4 beds,3 baths,"1,817 sq ft",10976 Collinwood Dr," Santee, CA 92071",Santee
+"$759,000",3 beds,1.5 baths,"1,104 sq ft",8793 Railroad Ave," Santee, CA 92071",Santee
+"$849,000",3 beds,2 baths,"2,005 sq ft",10125 Woodpark Dr," Santee, CA 92071",Santee
+"$869,900",5 beds,2 baths,"1,632 sq ft",9477 Ronnie Ct," Santee, CA 92071",Santee
+"$869,900",4 beds,2 baths,"1,584 sq ft",9927 Sadie St," Santee, CA 92071",Santee
+"$875,000",3 beds,2 baths,"1,404 sq ft",10520 El Nopal," Santee, CA 92071",Santee
+"$799,999",4 beds,2 baths,"1,141 sq ft",8556 Matterhorn Dr," Santee, CA 92071",Santee
+"$1,149,000",4 beds,3 baths,"2,167 sq ft",10552 Santana St," Santee, CA 92071",Santee
+"$1,249,000",5 beds,4 baths,"2,634 sq ft",9307 Dalehurst Rd," Santee, CA 92071",Santee
+"$775,000",3 beds,2 baths,"1,200 sq ft",8516 Ellsworth Ln," Santee, CA 92071",Santee
+"$960,000",3 beds,2 baths,"1,344 sq ft",9255 Fairlawn St," Santee, CA 92071",Santee
+"$1,200,000",4 beds,2 baths,"2,018 sq ft",10354 Prospect Ave," Santee, CA 92071",Santee
+"$1,150,000",4 beds,2.5 baths,"2,184 sq ft",2148 Estela Dr," El Cajon, CA 92020",Santee
+"$839,900",3 beds,2 baths,"1,201 sq ft",10247 EASTHAVEN Dr," Santee, CA 92071",Santee
+"$995,000",3 beds,2 baths,"1,979 sq ft",9475 Wharton Rd," Santee, CA 92071",Santee
+"$849,000",3 beds,2 baths,"1,272 sq ft",9616 Halberns Blvd," Santee, CA 92071",Santee
+"$850,000",3 beds,1 bath,"1,484 sq ft",9208 Arnaz Way," Santee, CA 92071",Santee
+"$799,900",3 beds,1 bath,"1,212 sq ft",9138 WILLOWGROVE Ave," Santee, CA 92071",Santee
+"$925,000",3 beds,2 baths,"1,392 sq ft",9134 Inverness Rd," Santee, CA 92071",Santee
+"$849,000",3 beds,2 baths,"1,392 sq ft",10503 Ironwood Ave," Santee, CA 92071",Santee
+"$1,285,000",4 beds,3 baths,"3,012 sq ft",10820 Dakota Ranch Rd," Santee, CA 92071",Santee
+"$759,900",3 beds,2 baths,"1,032 sq ft",9065 Heatherdale St," Santee, CA 92071",Santee
+"$1,297,900",4 beds,3 baths,"2,384 sq ft",8513 Mesa Heights Rd," Santee, CA 92071",Santee
+"$1,498,000",6 beds,3.5 baths,"3,357 sq ft",8741 Weston Rd," Santee, CA 92071",Santee
+"$830,000",3 beds,2 baths,"1,092 sq ft",9548 Abbeyfield Rd," Santee, CA 92071",Santee
+"$839,000",3 beds,2 baths,"1,122 sq ft",9368 Starcrest Dr," Santee, CA 92071",Santee
+"$875,000",3 beds,3 baths,"1,726 sq ft",2410 Nielsen St," El Cajon, CA 92020",Santee
+"$699,000",4 beds,2 baths,"1,694 sq ft",9703 Lutheran Way," Santee, CA 92071",Santee
+"$750,000",3 beds,2 baths,"1,393 sq ft",8313 Carlton Oaks Dr," Santee, CA 92071",Santee
+"$879,000",4 beds,2.5 baths,"1,744 sq ft",8852 Carmir Dr," Santee, CA 92071",Santee
+"$750,000",3 beds,2 baths,"1,177 sq ft",10019 Settle Rd," Santee, CA 92071",Santee
+"$1,050,000",4 beds,2.5 baths,"2,118 sq ft",224 Parkside Pl," Santee, CA 92071",Santee
+"$899,000",4 beds,2 baths,"1,646 sq ft",9985 Delia Ln," Santee, CA 92071",Santee
+"$685,000",3 beds,2 baths,"1,242 sq ft",9540 Jim," Santee, CA 92071",Santee
+"$949,000",4 beds,2 baths,"1,755 sq ft",7902 Poplin Dr," Santee, CA 92071",Santee
+"$869,000",4 beds,2 baths,"1,758 sq ft",9540 Abbeyfield Rd," Santee, CA 92071",Santee
+"$1,099,000",4 beds,2.5 baths,"2,053 sq ft",8761 Robles Dr," San Diego, CA 92119",Santee
+"$949,000",3 beds,2 baths,"1,305 sq ft",8611 Carlton Oaks Dr," Santee, CA 92071",Santee
+"$948,000",3 beds,2 baths,"1,404 sq ft",10442 Ken Ln," Santee, CA 92071",Santee
+"$875,000",3 beds,3 baths,"1,760 sq ft",11054 Columbus St," Santee, CA 92071",Santee
+"$1,265,000",4 beds,3 baths,"2,384 sq ft",10349 River Blf," Santee, CA 92071",Santee
+"$899,000",4 beds,3 baths,"1,817 sq ft",10976 Collinwood Dr," Santee, CA 92071",Santee
+"$759,000",3 beds,1.5 baths,"1,104 sq ft",8793 Railroad Ave," Santee, CA 92071",Santee
+"$849,000",3 beds,2 baths,"2,005 sq ft",10125 Woodpark Dr," Santee, CA 92071",Santee
+"$869,900",5 beds,2 baths,"1,632 sq ft",9477 Ronnie Ct," Santee, CA 92071",Santee
+"$869,900",4 beds,2 baths,"1,584 sq ft",9927 Sadie St," Santee, CA 92071",Santee
+"$875,000",3 beds,2 baths,"1,404 sq ft",10520 El Nopal," Santee, CA 92071",Santee
+"$799,999",4 beds,2 baths,"1,141 sq ft",8556 Matterhorn Dr," Santee, CA 92071",Santee
+"$1,149,000",4 beds,3 baths,"2,167 sq ft",10552 Santana St," Santee, CA 92071",Santee
+"$1,249,000",5 beds,4 baths,"2,634 sq ft",9307 Dalehurst Rd," Santee, CA 92071",Santee
+"$775,000",3 beds,2 baths,"1,200 sq ft",8516 Ellsworth Ln," Santee, CA 92071",Santee
+"$960,000",3 beds,2 baths,"1,344 sq ft",9255 Fairlawn St," Santee, CA 92071",Santee
+"$1,200,000",4 beds,2 baths,"2,018 sq ft",10354 Prospect Ave," Santee, CA 92071",Santee
+"$1,150,000",4 beds,2.5 baths,"2,184 sq ft",2148 Estela Dr," El Cajon, CA 92020",Santee
+"$839,900",3 beds,2 baths,"1,201 sq ft",10247 EASTHAVEN Dr," Santee, CA 92071",Santee
+"$995,000",3 beds,2 baths,"1,979 sq ft",9475 Wharton Rd," Santee, CA 92071",Santee
+"$995,000",3 beds,2 baths,"1,979 sq ft",9475 Wharton Rd," Santee, CA 92071",Santee
+"$875,000",4 beds,3 baths,"1,982 sq ft",10442 Nate Way," Santee, CA 92071",Santee
+"$830,000",3 beds,2 baths,"1,369 sq ft",257 Brookview," Santee, CA 92071",Santee
+"$1,236,990",5 beds,2.5 baths,"2,530 sq ft",Plan 2530 Modeled Plan," Santee, CA 92071",Santee
+"$1,600,000",6 beds,5 baths,"3,261 sq ft",8720 Ruocco Dr," Santee, CA 92071",Santee
+"$995,000",4 beds,2 baths,"1,540 sq ft",8596 Atlas Dr," Santee, CA 92071",Santee
+"$1,197,000",3 beds,2 baths,"2,487 sq ft",2409 Dehesa Rd," El Cajon, CA 92019",El Cajon
+"$724,999",3 beds,2 baths,"1,196 sq ft",8669 Via Del Luz," El Cajon, CA 92021",El Cajon
+"$999,000",3 beds,3 baths,"2,494 sq ft",2956 La Cresta Rd," El Cajon, CA 92021",El Cajon
+"$1,099,995",6 beds,4 baths,"2,502 sq ft",1730 VISTA DEL VALLE Blvd," El Cajon, CA 92019",El Cajon
+"$1,045,000",4 beds,3 baths,"2,264 sq ft",341 Dewane Dr," El Cajon, CA 92020",El Cajon
+"$970,000",3 beds,2 baths,"2,424 sq ft",1923 Forester Creek Rd," El Cajon, CA 92021",El Cajon
+"$799,000",3 beds,2 baths,"1,298 sq ft",1634 Plumeria Dr," El Cajon, CA 92021",El Cajon
+"$1,749,000",5 beds,4 baths,"3,956 sq ft",650 Bradford Rd," El Cajon, CA 92019",El Cajon
+"$1,250,000",4 beds,3 baths,"2,368 sq ft",11922 VIA HACIENDA," El Cajon, CA 92019",El Cajon
+"$1,150,000",3 beds,2.5 baths,"2,047 sq ft",2002 Chardon Ln," El Cajon, CA 92019",El Cajon
+"$899,000",4 beds,3 baths,"1,450 sq ft",1202 Hardin Dr," El Cajon, CA 92020",El Cajon
+"$1,799,000",5 beds,3 baths,"3,742 sq ft",402 Avenida Abajo," El Cajon, CA 92020",El Cajon
+"$999,900",3 beds,2.5 baths,"1,734 sq ft",2699 Sawgrass St," El Cajon, CA 92019",El Cajon
+"$779,000",3 beds,2 baths,"1,360 sq ft",1507 Savin Dr," El Cajon, CA 92021",El Cajon
+"$849,000",4 beds,2 baths,"1,529 sq ft",13170 Aurora Dr," El Cajon, CA 92021",El Cajon
+"$1,099,000",4 beds,3.5 baths,"2,598 sq ft",1672 Via Elisa," El Cajon, CA 92021",El Cajon
+"$1,295,000",4 beds,2 baths,"2,387 sq ft",2528 Windmill view Rd," El Cajon, CA 92020",El Cajon
+"$849,000",3 beds,2 baths,"1,282 sq ft",198 Lindell Ave," El Cajon, CA 92020",El Cajon
+"$1,098,000",4 beds,3 baths,"2,632 sq ft",9143 Soldin Ln," El Cajon, CA 92021",El Cajon
+"$724,900",3 beds,2 baths,"1,283 sq ft",611 Prescott Ave," El Cajon, CA 92020",El Cajon
+"$1,349,999",3 beds,2.5 baths,"2,248 sq ft",1917 Sonett St," El Cajon, CA 92019",El Cajon
+"$1,199,000",4 beds,3 baths,"1,908 sq ft",2540 Sawgrass St," El Cajon, CA 92019",El Cajon
+"$1,849,900",6 beds,5 baths,"3,882 sq ft",1758 CERCA BLANCA Pl," El Cajon, CA 92019",El Cajon
+"$839,000",3 beds,2 baths,"1,122 sq ft",9368 Starcrest Dr," Santee, CA 92071",El Cajon
+"$2,200,000",7 beds,4 baths,"4,499 sq ft",650 Colinas Mira," El Cajon, CA 92019",El Cajon
+"$1,699,000",4 beds,3 baths,"3,128 sq ft",15354 Broad Oaks Rd," El Cajon, CA 92021",El Cajon
+"$1,149,000",4 beds,2 baths,"1,996 sq ft",13426 Piping Rock Ln," El Cajon, CA 92021",El Cajon
+"$875,000",3 beds,3 baths,"1,726 sq ft",2410 Nielsen St," El Cajon, CA 92020",El Cajon
+"$754,900",3 beds,2 baths,"1,255 sq ft",563 Ann St," El Cajon, CA 92021",El Cajon
+"$779,950",3 beds,2 baths,"1,670 sq ft",1350 Coy Ct," El Cajon, CA 92021",El Cajon
+"$1,195,000",5 beds,3 baths,"2,046 sq ft",2458 Sawgrass St," El Cajon, CA 92019",El Cajon
+"$1,099,000",4 beds,2.5 baths,"2,310 sq ft",1759 Milton Manor Dr," El Cajon, CA 92021",El Cajon
+"$750,000",3 beds,2 baths,"1,344 sq ft",1131 Buckskin Rd," El Cajon, CA 92019",El Cajon
+"$1,199,000",4 beds,3 baths,"2,264 sq ft",1532 Wyatt Pl," El Cajon, CA 92020",El Cajon
+"$875,000",3 beds,2 baths,"1,189 sq ft",8543 Via Consuelo," El Cajon, CA 92021",El Cajon
+"$849,000",3 beds,2 baths,"1,498 sq ft",14204 Legacy Ln," El Cajon, CA 92021",El Cajon
+"$925,000",5 beds,3 baths,"2,794 sq ft",1493 Lily Ave," El Cajon, CA 92021",El Cajon
+"$1,949,999",4 beds,2.5 baths,"3,252 sq ft",2238 Tina St," El Cajon, CA 92019",El Cajon
+"$749,900",3 beds,1 bath,"1,112 sq ft",511 El Monte Rd," El Cajon, CA 92020",El Cajon
+"$1,050,000",3 beds,2.5 baths,"2,252 sq ft",1756 N 1st St," El Cajon, CA 92021",El Cajon
+"$1,197,000",3 beds,2 baths,"2,487 sq ft",2409 Dehesa Rd," El Cajon, CA 92019",El Cajon
+"$724,999",3 beds,2 baths,"1,196 sq ft",8669 Via Del Luz," El Cajon, CA 92021",El Cajon
+"$999,000",3 beds,3 baths,"2,494 sq ft",2956 La Cresta Rd," El Cajon, CA 92021",El Cajon
+"$1,099,995",6 beds,4 baths,"2,502 sq ft",1730 VISTA DEL VALLE Blvd," El Cajon, CA 92019",El Cajon
+"$1,045,000",4 beds,3 baths,"2,264 sq ft",341 Dewane Dr," El Cajon, CA 92020",El Cajon
+"$970,000",3 beds,2 baths,"2,424 sq ft",1923 Forester Creek Rd," El Cajon, CA 92021",El Cajon
+"$799,000",3 beds,2 baths,"1,298 sq ft",1634 Plumeria Dr," El Cajon, CA 92021",El Cajon
+"$1,749,000",5 beds,4 baths,"3,956 sq ft",650 Bradford Rd," El Cajon, CA 92019",El Cajon
+"$1,250,000",4 beds,3 baths,"2,368 sq ft",11922 VIA HACIENDA," El Cajon, CA 92019",El Cajon
+"$1,150,000",3 beds,2.5 baths,"2,047 sq ft",2002 Chardon Ln," El Cajon, CA 92019",El Cajon
+"$899,000",4 beds,3 baths,"1,450 sq ft",1202 Hardin Dr," El Cajon, CA 92020",El Cajon
+"$1,799,000",5 beds,3 baths,"3,742 sq ft",402 Avenida Abajo," El Cajon, CA 92020",El Cajon
+"$999,900",3 beds,2.5 baths,"1,734 sq ft",2699 Sawgrass St," El Cajon, CA 92019",El Cajon
+"$779,000",3 beds,2 baths,"1,360 sq ft",1507 Savin Dr," El Cajon, CA 92021",El Cajon
+"$849,000",4 beds,2 baths,"1,529 sq ft",13170 Aurora Dr," El Cajon, CA 92021",El Cajon
+"$1,099,000",4 beds,3.5 baths,"2,598 sq ft",1672 Via Elisa," El Cajon, CA 92021",El Cajon
+"$1,295,000",4 beds,2 baths,"2,387 sq ft",2528 Windmill view Rd," El Cajon, CA 92020",El Cajon
+"$849,000",3 beds,2 baths,"1,282 sq ft",198 Lindell Ave," El Cajon, CA 92020",El Cajon
+"$1,098,000",4 beds,3 baths,"2,632 sq ft",9143 Soldin Ln," El Cajon, CA 92021",El Cajon
+"$724,900",3 beds,2 baths,"1,283 sq ft",611 Prescott Ave," El Cajon, CA 92020",El Cajon
+"$1,349,999",3 beds,2.5 baths,"2,248 sq ft",1917 Sonett St," El Cajon, CA 92019",El Cajon
+"$1,199,000",4 beds,3 baths,"1,908 sq ft",2540 Sawgrass St," El Cajon, CA 92019",El Cajon
+"$1,849,900",6 beds,5 baths,"3,882 sq ft",1758 CERCA BLANCA Pl," El Cajon, CA 92019",El Cajon
+"$839,000",3 beds,2 baths,"1,122 sq ft",9368 Starcrest Dr," Santee, CA 92071",El Cajon
+"$2,200,000",7 beds,4 baths,"4,499 sq ft",650 Colinas Mira," El Cajon, CA 92019",El Cajon
+"$1,699,000",4 beds,3 baths,"3,128 sq ft",15354 Broad Oaks Rd," El Cajon, CA 92021",El Cajon
+"$1,149,000",4 beds,2 baths,"1,996 sq ft",13426 Piping Rock Ln," El Cajon, CA 92021",El Cajon
+"$875,000",3 beds,3 baths,"1,726 sq ft",2410 Nielsen St," El Cajon, CA 92020",El Cajon
+"$754,900",3 beds,2 baths,"1,255 sq ft",563 Ann St," El Cajon, CA 92021",El Cajon
+"$779,950",3 beds,2 baths,"1,670 sq ft",1350 Coy Ct," El Cajon, CA 92021",El Cajon
+"$1,195,000",5 beds,3 baths,"2,046 sq ft",2458 Sawgrass St," El Cajon, CA 92019",El Cajon
+"$1,099,000",4 beds,2.5 baths,"2,310 sq ft",1759 Milton Manor Dr," El Cajon, CA 92021",El Cajon
+"$750,000",3 beds,2 baths,"1,344 sq ft",1131 Buckskin Rd," El Cajon, CA 92019",El Cajon
+"$1,199,000",4 beds,3 baths,"2,264 sq ft",1532 Wyatt Pl," El Cajon, CA 92020",El Cajon
+"$875,000",3 beds,2 baths,"1,189 sq ft",8543 Via Consuelo," El Cajon, CA 92021",El Cajon
+"$849,000",3 beds,2 baths,"1,498 sq ft",14204 Legacy Ln," El Cajon, CA 92021",El Cajon
+"$925,000",5 beds,3 baths,"2,794 sq ft",1493 Lily Ave," El Cajon, CA 92021",El Cajon
+"$1,949,999",4 beds,2.5 baths,"3,252 sq ft",2238 Tina St," El Cajon, CA 92019",El Cajon
+"$749,900",3 beds,1 bath,"1,112 sq ft",511 El Monte Rd," El Cajon, CA 92020",El Cajon
+"$1,050,000",3 beds,2.5 baths,"2,252 sq ft",1756 N 1st St," El Cajon, CA 92021",El Cajon
+"$799,900",3 beds,2 baths,"1,920 sq ft",2466 Willow Glen Dr," El Cajon, CA 92019",El Cajon
+"$1,447,000",4 beds,3 baths,"2,812 sq ft",9903 Shadow Rd," La Mesa, CA 91941",El Cajon
+"$2,399,999",5 beds,4.5 baths,"4,960 sq ft",1475 Tina Ct," El Cajon, CA 92019",El Cajon
+"$1,649,000",3 beds,4.5 baths,"2,767 sq ft",620 Calle De La Sierra," El Cajon, CA 92019",El Cajon
+"$1,099,000",4 beds,2.5 baths,"2,053 sq ft",8761 Robles Dr," San Diego, CA 92119",El Cajon
+"$799,000",4 beds,2.5 baths,"1,806 sq ft",1152 Farview Ct," El Cajon, CA 92021",El Cajon
+"$849,999",3 beds,3 baths,"2,500 sq ft",2216 Crest Dr," El Cajon, CA 92021",El Cajon
+"$899,999",3 beds,2 baths,"1,455 sq ft",9998 Dunbar Ln," El Cajon, CA 92021",El Cajon
+"$1,249,000",4 beds,2.5 baths,"2,787 sq ft",2080 Eula Ln," El Cajon, CA 92019",El Cajon
+"$860,000",3 beds,2 baths,"1,132 sq ft",1491 Vicksburg Dr," El Cajon, CA 92021",El Cajon
+"$895,000",3 beds,2 baths,"1,636 sq ft",8965 Lake Angela," La Mesa, CA 91942",El Cajon
+"$879,000",4 beds,2.5 baths,"1,810 sq ft",1827 Tammy St," El Cajon, CA 92021",El Cajon
+"$875,000",3 beds,2.5 baths,"1,740 sq ft",130 Scenic Dr," El Cajon, CA 92021",El Cajon
+"$825,000",3 beds,2 baths,"1,437 sq ft",675 Dewane Dr," El Cajon, CA 92020",El Cajon
+"$849,888",3 beds,2 baths,"1,322 sq ft",132 Croydon Ln," El Cajon, CA 92020",El Cajon
+"$720,000",2 beds,2 baths,"1,228 sq ft",1203 Silverberry Ct," El Cajon, CA 92019",El Cajon
+"$1,299,999",4 beds,2.5 baths,"3,146 sq ft",2044 Eula Ln," El Cajon, CA 92019",El Cajon
+"$999,990",5 beds,3 baths,"2,462 sq ft",986 Merritt Dr," El Cajon, CA 92020",El Cajon
+"$799,000",4 beds,2 baths,"1,257 sq ft",8043 Royal Gardens Ct," El Cajon, CA 92021",El Cajon
+"$1,195,000",5 beds,3 baths,"2,867 sq ft",9442 Cherisse Ln," El Cajon, CA 92021",El Cajon
+"$1,165,000",5 beds,2 baths,"2,412 sq ft",827 Terra Ln," El Cajon, CA 92019",El Cajon
+"$749,500",3 beds,2 baths,"1,062 sq ft",244 Gull Pl," El Cajon, CA 92019",El Cajon
+"$1,899,000",5 beds,3.5 baths,"2,941 sq ft",1633 Monarch Ridge Cir," El Cajon, CA 92019",El Cajon
+"$925,000",4 beds,3 baths,"1,926 sq ft",8406 Alado Pl," El Cajon, CA 92021",El Cajon
+"$790,000",3 beds,2 baths,976 sq ft,816 Lemon Ave," El Cajon, CA 92020",El Cajon
+"$1,150,000",4 beds,3 baths,"2,080 sq ft",1200 Pine Dr," El Cajon, CA 92020",El Cajon
+"$1,499,900",3 beds,3.5 baths,"2,570 sq ft",2552 Singing Vista Way," El Cajon, CA 92019",El Cajon
+"$1,749,000",4 beds,3.5 baths,"3,141 sq ft",15881 Broad Oaks Rd," El Cajon, CA 92021",El Cajon
+"$709,900",2 beds,2 baths,"1,228 sq ft",1371 Bitterbush Ln," El Cajon, CA 92019",El Cajon
+"$750,000",3 beds,3 baths,"1,426 sq ft",129 S Ivory Ave," El Cajon, CA 92019",El Cajon
+"$750,000",3 beds,1 bath,752 sq ft,1205 Peach Ave," El Cajon, CA 92021",El Cajon
+"$819,000",4 beds,2 baths,"1,421 sq ft",13604 Avenida Del Charro," El Cajon, CA 92021",El Cajon
+"$789,999",3 beds,1 bath,"1,000 sq ft",649 N Cuyamaca St," El Cajon, CA 92020",El Cajon
+"$2,197,000",4 beds,4.5 baths,"4,030 sq ft",15740 Broad Oaks Rd," El Cajon, CA 92021",El Cajon
+"$1,345,000",4 beds,2.5 baths,"2,605 sq ft",2028 Valley Rim Rd," El Cajon, CA 92019",El Cajon
+"$1,675,000",6 beds,6 baths,"3,637 sq ft",410-412 Woodland Ln," El Cajon, CA 92021",El Cajon
+"$890,000",5 beds,3 baths,"2,006 sq ft",801 Loquat Ct," El Cajon, CA 92020",El Cajon
+"$2,275,000",5 beds,4 baths,"3,729 sq ft",4860-62 Avocado Blvd," El Cajon, CA 92020",El Cajon
+"$879,000",3 beds,2 baths,"1,560 sq ft",8016 Sterling Dr," El Cajon, CA 92021",El Cajon
+"$1,749,000",5 beds,3 baths,"3,186 sq ft",11328 Rolling Hills Dr," El Cajon, CA 92020",El Cajon
+"$1,149,000",4 beds,2 baths,"2,784 sq ft",4002 Violet," La Mesa, CA 91941",La Mesa
+"$1,349,000",4 beds,2.5 baths,"2,587 sq ft",9430 Tropico Dr," La Mesa, CA 91941",La Mesa
+"$849,000",2 beds,1.5 baths,"1,155 sq ft",7486 Muriel Pl," La Mesa, CA 91941",La Mesa
+"$799,000",3 beds,2 baths,"1,350 sq ft",4516 Olive Ave," La Mesa, CA 91942",La Mesa
+"$795,000",2 beds,1 bath,862 sq ft,4349 Yale Ave," La Mesa, CA 91942",La Mesa
+"$1,825,000",6 beds,4 baths,"5,600 sq ft",4367 Summit Dr Unit .," La Mesa, CA 91941",La Mesa
+"$1,589,900",5 beds,3 baths,"2,350 sq ft",7569 El Paso St," La Mesa, CA 91942",La Mesa
+"$1,687,990",6 beds,4.5 baths,"3,901 sq ft",7800 La Mesa Summit Dr," La Mesa, CA 91941",La Mesa
+"$1,403,990",3 beds,3.5 baths,"2,473 sq ft",7790 La Mesa Summit Dr," La Mesa, CA 91941",La Mesa
+"$998,747",3 beds,2.5 baths,"1,535 sq ft",4222 Avocado Blvd," La Mesa, CA 91941",La Mesa
+"$965,000",4 beds,2 baths,"1,352 sq ft",6040 Manon St," La Mesa, CA 91942",La Mesa
+"$1,175,000",7 beds,4 baths,"2,300 sq ft",8100 8100 Binney Pl," La Mesa, CA 91942",La Mesa
+"$1,200,000",4 beds,3 baths,"2,500 sq ft",4336 Crestview Dr," La Mesa, CA 91941",La Mesa
+"$1,200,000",4 beds,2.5 baths,"2,304 sq ft",4631 Mission Bell Ln," La Mesa, CA 91941",La Mesa
+"$1,100,000",3 beds,1.5 baths,"1,545 sq ft",4210 Black Mountain Rd," La Mesa, CA 91941",La Mesa
+"$989,000",3 beds,2 baths,"1,196 sq ft",6065 Zora St," La Mesa, CA 91942",La Mesa
+"$789,000",3 beds,2 baths,"1,162 sq ft",3465 Par Dr," La Mesa, CA 91941",La Mesa
+"$1,599,000",3 beds,3 baths,"2,192 sq ft",8535 Hillcrest Ave," La Mesa, CA 91941",La Mesa
+"$1,925,000",5 beds,3 baths,"2,182 sq ft",4359 Date Ave," La Mesa, CA 91941",La Mesa
+"$849,000",3 beds,2 baths,"1,472 sq ft",8899 Mariposa St," La Mesa, CA 91941",La Mesa
+"$1,299,900",4 beds,2.5 baths,"2,171 sq ft",4620 Panchoy Dr," La Mesa, CA 91941",La Mesa
+"$2,250,000",6 beds,4 baths,"5,065 sq ft",9945 Alto Dr," La Mesa, CA 91941",La Mesa
+"$1,125,000",3 beds,2.5 baths,"2,033 sq ft",10964 Dutton Dr," La Mesa, CA 91941",La Mesa
+"$794,000",2 beds,1.5 baths,"1,096 sq ft",4309 Harbinson Ave," La Mesa, CA 91942",La Mesa
+"$2,450,000",7 beds,7 baths,"6,763 sq ft",9740 Lake Helix Ter," La Mesa, CA 91941",La Mesa
+"$1,350,000",4 beds,2.5 baths,"1,855 sq ft",4111 Calavo Dr," La Mesa, CA 91941",La Mesa
+"$974,900",4 beds,2 baths,"2,000 sq ft",3943 Nereis Dr," La Mesa, CA 91941",La Mesa
+"$1,447,000",4 beds,3 baths,"2,812 sq ft",9903 Shadow Rd," La Mesa, CA 91941",La Mesa
+"$600,000",2 beds,1 bath,864 sq ft,4138 Blackton Dr," La Mesa, CA 91941",La Mesa
+"$1,469,900",3 beds,2.5 baths,"2,655 sq ft",4150 Calavo Dr," La Mesa, CA 91941",La Mesa
+"$929,000",3 beds,2 baths,"1,694 sq ft",4124 Bancroft Dr," La Mesa, CA 91941",La Mesa
+"$879,000",4 beds,2 baths,"1,404 sq ft",5393 Mary Fellows Ave," La Mesa, CA 91942",La Mesa
+"$1,125,000",4 beds,2 baths,"1,995 sq ft",7987 Wetherly St," La Mesa, CA 91941",La Mesa
+"$1,189,000",3 beds,2 baths,"2,606 sq ft",4029 Carpenter Ln," La Mesa, CA 91941",La Mesa
+"$895,000",3 beds,2 baths,"1,636 sq ft",8965 Lake Angela," La Mesa, CA 91942",La Mesa
+"$949,000",3 beds,2.5 baths,"1,673 sq ft",4444 68Th St," La Mesa, CA 91942",La Mesa
+"$849,888",3 beds,2 baths,"1,322 sq ft",132 Croydon Ln," El Cajon, CA 92020",La Mesa
+"$975,000",3 beds,2 baths,"1,784 sq ft",4720 Jessie Ave," La Mesa, CA 91942",La Mesa
+"$1,600,000",5 beds,4 baths,"4,117 sq ft",8945 McKinley Ct," La Mesa, CA 91941",La Mesa
+"$1,395,000",5 beds,3 baths,"2,816 sq ft",9809 Bonnie Vista Dr," La Mesa, CA 91941",La Mesa
+"$1,299,000",5 beds,4 baths,"2,265 sq ft",9269 Mollywoods Ave," La Mesa, CA 91941",La Mesa
+"$1,149,000",4 beds,2 baths,"2,784 sq ft",4002 Violet," La Mesa, CA 91941",La Mesa
+"$1,349,000",4 beds,2.5 baths,"2,587 sq ft",9430 Tropico Dr," La Mesa, CA 91941",La Mesa
+"$849,000",2 beds,1.5 baths,"1,155 sq ft",7486 Muriel Pl," La Mesa, CA 91941",La Mesa
+"$799,000",3 beds,2 baths,"1,350 sq ft",4516 Olive Ave," La Mesa, CA 91942",La Mesa
+"$795,000",2 beds,1 bath,862 sq ft,4349 Yale Ave," La Mesa, CA 91942",La Mesa
+"$1,825,000",6 beds,4 baths,"5,600 sq ft",4367 Summit Dr Unit .," La Mesa, CA 91941",La Mesa
+"$1,589,900",5 beds,3 baths,"2,350 sq ft",7569 El Paso St," La Mesa, CA 91942",La Mesa
+"$1,687,990",6 beds,4.5 baths,"3,901 sq ft",7800 La Mesa Summit Dr," La Mesa, CA 91941",La Mesa
+"$1,403,990",3 beds,3.5 baths,"2,473 sq ft",7790 La Mesa Summit Dr," La Mesa, CA 91941",La Mesa
+"$998,747",3 beds,2.5 baths,"1,535 sq ft",4222 Avocado Blvd," La Mesa, CA 91941",La Mesa
+"$965,000",4 beds,2 baths,"1,352 sq ft",6040 Manon St," La Mesa, CA 91942",La Mesa
+"$1,175,000",7 beds,4 baths,"2,300 sq ft",8100 8100 Binney Pl," La Mesa, CA 91942",La Mesa
+"$1,200,000",4 beds,3 baths,"2,500 sq ft",4336 Crestview Dr," La Mesa, CA 91941",La Mesa
+"$1,200,000",4 beds,2.5 baths,"2,304 sq ft",4631 Mission Bell Ln," La Mesa, CA 91941",La Mesa
+"$1,100,000",3 beds,1.5 baths,"1,545 sq ft",4210 Black Mountain Rd," La Mesa, CA 91941",La Mesa
+"$989,000",3 beds,2 baths,"1,196 sq ft",6065 Zora St," La Mesa, CA 91942",La Mesa
+"$789,000",3 beds,2 baths,"1,162 sq ft",3465 Par Dr," La Mesa, CA 91941",La Mesa
+"$1,599,000",3 beds,3 baths,"2,192 sq ft",8535 Hillcrest Ave," La Mesa, CA 91941",La Mesa
+"$1,925,000",5 beds,3 baths,"2,182 sq ft",4359 Date Ave," La Mesa, CA 91941",La Mesa
+"$849,000",3 beds,2 baths,"1,472 sq ft",8899 Mariposa St," La Mesa, CA 91941",La Mesa
+"$1,299,900",4 beds,2.5 baths,"2,171 sq ft",4620 Panchoy Dr," La Mesa, CA 91941",La Mesa
+"$2,250,000",6 beds,4 baths,"5,065 sq ft",9945 Alto Dr," La Mesa, CA 91941",La Mesa
+"$1,125,000",3 beds,2.5 baths,"2,033 sq ft",10964 Dutton Dr," La Mesa, CA 91941",La Mesa
+"$794,000",2 beds,1.5 baths,"1,096 sq ft",4309 Harbinson Ave," La Mesa, CA 91942",La Mesa
+"$2,450,000",7 beds,7 baths,"6,763 sq ft",9740 Lake Helix Ter," La Mesa, CA 91941",La Mesa
+"$1,350,000",4 beds,2.5 baths,"1,855 sq ft",4111 Calavo Dr," La Mesa, CA 91941",La Mesa
+"$974,900",4 beds,2 baths,"2,000 sq ft",3943 Nereis Dr," La Mesa, CA 91941",La Mesa
+"$1,447,000",4 beds,3 baths,"2,812 sq ft",9903 Shadow Rd," La Mesa, CA 91941",La Mesa
+"$600,000",2 beds,1 bath,864 sq ft,4138 Blackton Dr," La Mesa, CA 91941",La Mesa
+"$1,469,900",3 beds,2.5 baths,"2,655 sq ft",4150 Calavo Dr," La Mesa, CA 91941",La Mesa
+"$929,000",3 beds,2 baths,"1,694 sq ft",4124 Bancroft Dr," La Mesa, CA 91941",La Mesa
+"$879,000",4 beds,2 baths,"1,404 sq ft",5393 Mary Fellows Ave," La Mesa, CA 91942",La Mesa
+"$1,125,000",4 beds,2 baths,"1,995 sq ft",7987 Wetherly St," La Mesa, CA 91941",La Mesa
+"$1,189,000",3 beds,2 baths,"2,606 sq ft",4029 Carpenter Ln," La Mesa, CA 91941",La Mesa
+"$895,000",3 beds,2 baths,"1,636 sq ft",8965 Lake Angela," La Mesa, CA 91942",La Mesa
+"$949,000",3 beds,2.5 baths,"1,673 sq ft",4444 68Th St," La Mesa, CA 91942",La Mesa
+"$849,888",3 beds,2 baths,"1,322 sq ft",132 Croydon Ln," El Cajon, CA 92020",La Mesa
+"$975,000",3 beds,2 baths,"1,784 sq ft",4720 Jessie Ave," La Mesa, CA 91942",La Mesa
+"$1,600,000",5 beds,4 baths,"4,117 sq ft",8945 McKinley Ct," La Mesa, CA 91941",La Mesa
+"$1,395,000",5 beds,3 baths,"2,816 sq ft",9809 Bonnie Vista Dr," La Mesa, CA 91941",La Mesa
+"$769,000",2 beds,1 bath,768 sq ft,7821 Cimarron Ln," La Mesa, CA 91942",La Mesa
+"$1,544,995",5 beds,4 baths,"3,520 sq ft",3935 SACRAMENTO Dr," La Mesa, CA 91941",La Mesa
+"$1,950,000",4 beds,3.5 baths,"4,154 sq ft",4816 Redondo Dr," La Mesa, CA 91941",La Mesa
+"$1,195,000",4 beds,4 baths,"2,095 sq ft",8060 Lemon Ave," La Mesa, CA 91941",La Mesa
+"$2,275,000",5 beds,4 baths,"3,729 sq ft",4860-62 Avocado Blvd," El Cajon, CA 92020",La Mesa
+"$1,450,000",3 beds,3 baths,"2,693 sq ft",4300 Sheldon Dr," La Mesa, CA 91941",La Mesa
+"$825,000",3 beds,2 baths,"1,205 sq ft",8605 Washington Ave," La Mesa, CA 91942",La Mesa
+"$1,199,000",4 beds,2.5 baths,"1,988 sq ft",8568 Boulder Dr," La Mesa, CA 91941",La Mesa
+"$4,995,000",7 beds,6.5 baths,"5,470 sq ft",10310 Fuerte Dr," La Mesa, CA 91941",La Mesa
+"$999,000",4 beds,2 baths,"1,706 sq ft",7861 Cimarron Ln," La Mesa, CA 91942",La Mesa
+"$700,000",3 beds,1 bath,896 sq ft,6826 Missy Ct," San Diego, CA 92115",La Mesa
+"$1,499,000",4 beds,5 baths,"3,575 sq ft",9226 Briercrest Dr," La Mesa, CA 91942",La Mesa
+"$769,999",2 beds,1 bath,636 sq ft,4990 73Rd St," San Diego, CA 92115",La Mesa
+"$749,999",2 beds,1 bath,808 sq ft,5060 Williams Ave," La Mesa, CA 91942",La Mesa
+"$1,699,000",4 beds,3.5 baths,"3,019 sq ft",9960 Pandora Dr," La Mesa, CA 91941",La Mesa
+"$1,398,000",4 beds,3 baths,"2,800 sq ft",4675 Munroe St," La Mesa, CA 91942",La Mesa
+"$1,099,000",4 beds,3 baths,"1,782 sq ft",4251 Nabal Dr," La Mesa, CA 91941",La Mesa
+"$1,999,900",4 beds,4 baths,"5,834 sq ft",10880 Hess Dr," La Mesa, CA 91941",La Mesa
+"$939,000",3 beds,2 baths,"1,652 sq ft",4427 68th St," La Mesa, CA 91942",La Mesa
+"$1,479,000",4 beds,3 baths,"2,458 sq ft",4742 Mt. Helix Dr," La Mesa, CA 91941",La Mesa
+"$877,000",3 beds,2 baths,"1,657 sq ft",7384 W Point Ave," La Mesa, CA 91942",La Mesa
+"$1,374,990",3 beds,3.5 baths,"2,473 sq ft",7810 La Mesa Summit Dr," La Mesa, CA 91941",La Mesa
+"$1,900,000",6 beds,5 baths,"3,114 sq ft",8580 Chevy Chase Dr," La Mesa, CA 91941",La Mesa
+"$930,000",4 beds,2 baths,"1,741 sq ft",6108 DALHART," La Mesa, CA 91942",La Mesa
+"$1,245,000",4 beds,3 baths,"2,214 sq ft",7990 Cinnabar Dr," La Mesa, CA 91941",La Mesa
+"$1,125,000",4 beds,3 baths,"2,005 sq ft",4404 Vista Way," La Mesa, CA 91941",La Mesa
+"$1,796,990",4 beds,4.5 baths,"3,677 sq ft",7830 La Mesa Summit Dr," La Mesa, CA 91941",La Mesa
+"$1,596,990",3 beds,3.5 baths,"2,473 sq ft",7845 La Mesa Summit Dr," La Mesa, CA 91941",La Mesa
+"$1,850,990",6 beds,5.5 baths,"3,677 sq ft",Residence 3 Plan," La Mesa, CA 91941",La Mesa
+"$1,626,990",3 beds,3.5 baths,"2,473 sq ft",Residence 1 Plan," La Mesa, CA 91941",La Mesa
+"$1,099,000",5 beds,3 baths,"1,946 sq ft",12256 Old Stone Rd," Poway, CA 92064",Poway
+"$1,750,000",3 beds,3 baths,"3,040 sq ft",11448 Cypress Canyon Park Dr," San Diego, CA 92131",Poway
+"$1,799,000",4 beds,3 baths,"3,099 sq ft",12050 Crest Rd," Poway, CA 92064",Poway
+"$919,900",3 beds,1.5 baths,"1,125 sq ft",13834 Tobiasson Rd," Poway, CA 92064",Poway
+"$3,199,000",6 beds,4.5 baths,"5,426 sq ft",15480 Eastvale Rd," Poway, CA 92064",Poway
+"$985,000",3 beds,2 baths,"1,322 sq ft",14555 High Pine St," Poway, CA 92064",Poway
+"$1,125,000",5 beds,3 baths,"1,440 sq ft",15208 Amso St," Poway, CA 92064",Poway
+"$1,049,900",5 beds,1.5 baths,"1,976 sq ft",13406 Ann O Reno Ln," Poway, CA 92064",Poway
+"$1,200,000",4 beds,2 baths,"1,804 sq ft",13808 Pomerado Rd," Poway, CA 92064",Poway
+"$1,099,000",4 beds,2 baths,"1,212 sq ft",14130 Frame Rd," Poway, CA 92064",Poway
+"$1,099,900",3 beds,3 baths,"1,487 sq ft",13455 Carriage Rd," Poway, CA 92064",Poway
+"$1,390,000",4 beds,2 baths,"2,209 sq ft",12521 McFeron Rd," Poway, CA 92064",Poway
+"$5,800,000",7 beds,7.5 baths,"11,041 sq ft",13742 Paseo Valle Alto," Poway, CA 92064",Poway
+"$905,000",2 beds,2 baths,"1,850 sq ft",16407 Gabarda Rd," San Diego, CA 92128",Poway
+"$1,898,000",5 beds,3.5 baths,"3,449 sq ft",16220 Del Norte," Poway, CA 92064",Poway
+"$1,375,000",3 beds,2 baths,"1,650 sq ft",14845 Espola Rd," Poway, CA 92064",Poway
+"$949,900",2 beds,2 baths,"1,738 sq ft",13025 Avenida Marbella," San Diego, CA 92128",Poway
+"$1,250,000",3 beds,2 baths,"1,630 sq ft",13336 Corte De Comares," Rancho Bernardo (san Diego), CA 92128",Poway
+"$2,895,000",5 beds,4.5 baths,"5,048 sq ft",18151 Old Coach Rd," Poway, CA 92064",Poway
+"$699,995",3 beds,2 baths,"1,152 sq ft",14955 Avenida Venusto #35," San Diego, CA 92128",Poway
+"$1,495,000",4 beds,3 baths,"2,101 sq ft",11840 Springside Rd," San Diego, CA 92128",Poway
+"$1,175,000",4 beds,2 baths,"1,935 sq ft",15034 Jenell St," Poway, CA 92064",Poway
+"$1,000,000",3 beds,2 baths,"2,093 sq ft",13340 Miguel Garden Way," Poway, CA 92064",Poway
+"$999,000",4 beds,2 baths,"1,448 sq ft",13440 MONTEGO Dr," Poway, CA 92064",Poway
+"$1,995,000",4 beds,3 baths,"2,763 sq ft",17221 Cloudcroft Dr," Poway, CA 92064",Poway
+"$2,690,000",5 beds,4.5 baths,"3,787 sq ft",11558 Creek Rd," Poway, CA 92064",Poway
+"$1,589,900",4 beds,3 baths,"2,176 sq ft",13128 Via Del Toro," Poway, CA 92064",Poway
+"$1,249,000",3 beds,2 baths,"1,514 sq ft",12132 Old Pomerado Rd," Poway, CA 92064",Poway
+"$1,145,000",4 beds,3 baths,"1,525 sq ft",13910 Pomerado Rd," Poway, CA 92064",Poway
+"$2,499,000",4 beds,3 baths,"3,383 sq ft",15808 Cumberland Dr," Poway, CA 92064",Poway
+"$2,595,000",5 beds,4.5 baths,"4,466 sq ft",13000 Lomas Verdes Dr," Poway, CA 92064",Poway
+"$799,000",3 beds,1 bath,952 sq ft,14538 Biddeford St," Poway, CA 92064",Poway
+"$1,879,000",4 beds,3 baths,"2,484 sq ft",13046 Edina Way," Poway, CA 92064",Poway
+"$1,595,000",4 beds,2 baths,"2,156 sq ft",17205 Vendor Pl," Poway, CA 92064",Poway
+"$1,100,000",3 beds,2 baths,"1,358 sq ft",14513 Mirando St," Poway, CA 92064",Poway
+"$2,495,000",4 beds,3 baths,"2,937 sq ft",14298 Ipava Dr," Poway, CA 92064",Poway
+"$3,299,000",4 beds,4 baths,"4,502 sq ft",13495 Del Poniente Rd," Poway, CA 92064",Poway
+"$1,475,000",4 beds,2 baths,"2,120 sq ft",12952 Pomard Way," Poway, CA 92064",Poway
+"$3,949,000",6 beds,7 baths,"6,528 sq ft",13421 Old Winery Rd," Poway, CA 92064",Poway
+"$2,824,000",4 beds,4.5 baths,"3,783 sq ft",15484 Markar Rd," Poway, CA 92064",Poway
+"$1,099,000",5 beds,3 baths,"1,946 sq ft",12256 Old Stone Rd," Poway, CA 92064",Poway
+"$1,750,000",3 beds,3 baths,"3,040 sq ft",11448 Cypress Canyon Park Dr," San Diego, CA 92131",Poway
+"$1,799,000",4 beds,3 baths,"3,099 sq ft",12050 Crest Rd," Poway, CA 92064",Poway
+"$919,900",3 beds,1.5 baths,"1,125 sq ft",13834 Tobiasson Rd," Poway, CA 92064",Poway
+"$3,199,000",6 beds,4.5 baths,"5,426 sq ft",15480 Eastvale Rd," Poway, CA 92064",Poway
+"$985,000",3 beds,2 baths,"1,322 sq ft",14555 High Pine St," Poway, CA 92064",Poway
+"$1,125,000",5 beds,3 baths,"1,440 sq ft",15208 Amso St," Poway, CA 92064",Poway
+"$1,049,900",5 beds,1.5 baths,"1,976 sq ft",13406 Ann O Reno Ln," Poway, CA 92064",Poway
+"$1,200,000",4 beds,2 baths,"1,804 sq ft",13808 Pomerado Rd," Poway, CA 92064",Poway
+"$1,099,000",4 beds,2 baths,"1,212 sq ft",14130 Frame Rd," Poway, CA 92064",Poway
+"$1,099,900",3 beds,3 baths,"1,487 sq ft",13455 Carriage Rd," Poway, CA 92064",Poway
+"$1,390,000",4 beds,2 baths,"2,209 sq ft",12521 McFeron Rd," Poway, CA 92064",Poway
+"$5,800,000",7 beds,7.5 baths,"11,041 sq ft",13742 Paseo Valle Alto," Poway, CA 92064",Poway
+"$905,000",2 beds,2 baths,"1,850 sq ft",16407 Gabarda Rd," San Diego, CA 92128",Poway
+"$1,898,000",5 beds,3.5 baths,"3,449 sq ft",16220 Del Norte," Poway, CA 92064",Poway
+"$1,375,000",3 beds,2 baths,"1,650 sq ft",14845 Espola Rd," Poway, CA 92064",Poway
+"$949,900",2 beds,2 baths,"1,738 sq ft",13025 Avenida Marbella," San Diego, CA 92128",Poway
+"$1,250,000",3 beds,2 baths,"1,630 sq ft",13336 Corte De Comares," Rancho Bernardo (san Diego), CA 92128",Poway
+"$2,895,000",5 beds,4.5 baths,"5,048 sq ft",18151 Old Coach Rd," Poway, CA 92064",Poway
+"$699,995",3 beds,2 baths,"1,152 sq ft",14955 Avenida Venusto #35," San Diego, CA 92128",Poway
+"$1,495,000",4 beds,3 baths,"2,101 sq ft",11840 Springside Rd," San Diego, CA 92128",Poway
+"$1,175,000",4 beds,2 baths,"1,935 sq ft",15034 Jenell St," Poway, CA 92064",Poway
+"$1,000,000",3 beds,2 baths,"2,093 sq ft",13340 Miguel Garden Way," Poway, CA 92064",Poway
+"$999,000",4 beds,2 baths,"1,448 sq ft",13440 MONTEGO Dr," Poway, CA 92064",Poway
+"$1,995,000",4 beds,3 baths,"2,763 sq ft",17221 Cloudcroft Dr," Poway, CA 92064",Poway
+"$2,690,000",5 beds,4.5 baths,"3,787 sq ft",11558 Creek Rd," Poway, CA 92064",Poway
+"$1,589,900",4 beds,3 baths,"2,176 sq ft",13128 Via Del Toro," Poway, CA 92064",Poway
+"$1,249,000",3 beds,2 baths,"1,514 sq ft",12132 Old Pomerado Rd," Poway, CA 92064",Poway
+"$1,145,000",4 beds,3 baths,"1,525 sq ft",13910 Pomerado Rd," Poway, CA 92064",Poway
+"$2,499,000",4 beds,3 baths,"3,383 sq ft",15808 Cumberland Dr," Poway, CA 92064",Poway
+"$2,595,000",5 beds,4.5 baths,"4,466 sq ft",13000 Lomas Verdes Dr," Poway, CA 92064",Poway
+"$799,000",3 beds,1 bath,952 sq ft,14538 Biddeford St," Poway, CA 92064",Poway
+"$1,879,000",4 beds,3 baths,"2,484 sq ft",13046 Edina Way," Poway, CA 92064",Poway
+"$1,595,000",4 beds,2 baths,"2,156 sq ft",17205 Vendor Pl," Poway, CA 92064",Poway
+"$1,100,000",3 beds,2 baths,"1,358 sq ft",14513 Mirando St," Poway, CA 92064",Poway
+"$2,495,000",4 beds,3 baths,"2,937 sq ft",14298 Ipava Dr," Poway, CA 92064",Poway
+"$3,299,000",4 beds,4 baths,"4,502 sq ft",13495 Del Poniente Rd," Poway, CA 92064",Poway
+"$1,475,000",4 beds,2 baths,"2,120 sq ft",12952 Pomard Way," Poway, CA 92064",Poway
+"$3,949,000",6 beds,7 baths,"6,528 sq ft",13421 Old Winery Rd," Poway, CA 92064",Poway
+"$2,824,000",4 beds,4.5 baths,"3,783 sq ft",15484 Markar Rd," Poway, CA 92064",Poway
+"$5,200,000",7 beds,8 baths,"9,342 sq ft",13645 Paseo De La Huerta," Poway, CA 92064",Poway
+"$1,295,000",3 beds,2.5 baths,"1,505 sq ft",14659 Carmel Ridge Rd," San Diego, CA 92128",Poway
+"$2,599,999",5 beds,4.5 baths,"4,096 sq ft",11766 Treadwell Dr," Poway, CA 92064",Poway
+"$3,275,000",6 beds,7 baths,"6,000 sq ft",16801 Chaparral Way," Poway, CA 92064",Poway
+"$3,599,000",5 beds,6 baths,"6,583 sq ft",15955 Running Deer Trl," Poway, CA 92064",Poway
+"$1,099,000",4 beds,2 baths,"1,487 sq ft",12701 Mcferon Rd," Poway, CA 92064",Poway
+"$935,000",3 beds,2 baths,"1,229 sq ft",13222 Whitewater Dr," Poway, CA 92064",Poway
+"$2,549,900",6 beds,4.5 baths,"3,872 sq ft",11781 Treadwell Dr," Poway, CA 92064",Poway
+"$2,395,000",4 beds,3 baths,"2,516 sq ft",15176 Vali Hai Rd," Poway, CA 92064",Poway
+"$3,995,000",5 beds,5.5 baths,"6,114 sq ft",17744 Old Winery Way," Poway, CA 92064",Poway
+"$860,000",3 beds,2 baths,"1,614 sq ft",12581 Lomica Ave," San Diego, CA 92128",Poway
+"$1,499,000",4 beds,3 baths,"2,445 sq ft",13940 NORTHCREST Ln," Poway, CA 92064",Poway
+"$2,995,000",6 beds,4.5 baths,"3,967 sq ft",15123 Larchmont St," Poway, CA 92064",Poway
+"$1,099,000",4 beds,2 baths,"1,330 sq ft",13503 Maryearl Ln," Poway, CA 92064",Poway
+"$998,500",2 beds,2 baths,"1,659 sq ft",17502 Plaza Marlena," San Diego, CA 92128",Poway
+"$6,750,000",9 beds,8.5 baths,"13,929 sq ft",14155 Bryce Pt," Poway, CA 92064",Poway
+"$1,970,000",4 beds,3 baths,"3,040 sq ft",11476 Cypress Terrace Pl," San Diego, CA 92131",Poway
+"$1,600,000",4 beds,2 baths,"1,950 sq ft",14446 Sespe Pl," Poway, CA 92064",Poway
+"$2,550,000",4 beds,3.5 baths,"3,982 sq ft",13012 Solera Way," Poway, CA 92064",Poway
+"$2,197,990",5 beds,4.5 baths,"3,900 sq ft",13760 Holly Oak Way," Poway, CA 92064",Poway
+"$2,156,990",5 beds,3.5 baths,"3,589 sq ft",13750 Holly Oak Way," Poway, CA 92064",Poway
+"$2,040,990",4 beds,3.5 baths,"3,001 sq ft",13730 Holly Oak Way," Poway, CA 92064",Poway
+"$3,495,000",7 beds,7 baths,"5,457 sq ft",13773 Paseo Valle Alto," Poway, CA 92064",Poway
+"$3,299,000",7 beds,5.5 baths,"5,389 sq ft",13665 White Rock Station Rd," Poway, CA 92064",Poway
+"$1,325,000",4 beds,2 baths,"2,156 sq ft",13145 Decant Dr," Poway, CA 92064",Poway
+"$1,298,800",4 beds,2.5 baths,"1,987 sq ft",13635 Janeen Pl," Poway, CA 92064",Poway
+"$2,950,000",6 beds,5.5 baths,"4,261 sq ft",13327 Calle Colina," Poway, CA 92064",Poway
+"$999,999",4 beds,2.5 baths,"1,644 sq ft",12939 Cree Ct," Poway, CA 92064",Poway
+"$849,000",3 beds,2 baths,"1,100 sq ft",14544 Kennebunk St," Poway, CA 92064",Poway
+"$5,895,000",7 beds,8.5 baths,"10,266 sq ft",14160 Augusta Ct," Poway, CA 92064",Poway
+"$1,298,000",4 beds,2 baths,"2,034 sq ft",12866 SUMMERFIELD Ln," Poway, CA 92064",Poway
+"$3,675,000",5 beds,6 baths,"5,062 sq ft",16110 Lakeview Dr," Poway, CA 92064",Poway
+"$2,060,000",5 beds,4 baths,"3,356 sq ft",13080 Camino Del Valle," Poway, CA 92064",Poway
+"$2,198,888",5 beds,3.5 baths,"3,301 sq ft",13378 Calle Colina," Poway, CA 92064",Poway
+"$2,695,000",6 beds,4.5 baths,"3,905 sq ft",16350 Sage Trails Ct," Poway, CA 92064",Poway
+"$1,300,000",4 beds,2 baths,"1,879 sq ft",12953 Carriage Rd," Poway, CA 92064",Poway
+"$935,000",3 beds,2 baths,"1,089 sq ft",13315 Carriage Rd," Poway, CA 92064",Poway
+"$2,795,000",6 beds,4.5 baths,"3,967 sq ft",15130 Larchmont St," Poway, CA 92064",Poway
+"$3,295,000",7 beds,5.5 baths,"5,755 sq ft",17010 Butterfield Trl," Poway, CA 92064",Poway
+"$2,100,000",7 beds,7.5 baths,"3,454 sq ft",12738 Monte Vista Rd," Poway, CA 92064",Poway
+"$1,318,000",4 beds,2 baths,"1,935 sq ft",14152 Kendra Way," Poway, CA 92064",Poway
+"$849,900",4 beds,2 baths,"1,680 sq ft",1673 Walbollen St," Spring Valley, CA 91977",Lemon Grove
+"$699,900",3 beds,2 baths,"1,003 sq ft",7905 Lansing Dr," Lemon Grove, CA 91945",Lemon Grove
+"$785,000",3 beds,2.5 baths,"1,409 sq ft",7922 Sunset Ter," Lemon Grove, CA 91945",Lemon Grove
+"$899,000",3 beds,2 baths,"1,399 sq ft",2311 Loma Dr," Lemon Grove, CA 91945",Lemon Grove
+"$699,000",3 beds,2 baths,"1,225 sq ft",2740 Skyline Dr," Lemon Grove, CA 91945",Lemon Grove
+"$789,000",3 beds,2 baths,"1,162 sq ft",3465 Par Dr," La Mesa, CA 91941",Lemon Grove
+"$894,000",3 beds,2.5 baths,"1,576 sq ft",2351 Star Pine Dr," Lemon Grove, CA 91945",Lemon Grove
+"$949,000",5 beds,3 baths,"2,400 sq ft",3168 Florine Dr," Lemon Grove, CA 91945",Lemon Grove
+"$760,000",3 beds,2 baths,"1,567 sq ft",2548 Cinderella Way," Lemon Grove, CA 91945",Lemon Grove
+"$799,900",3 beds,2 baths,"1,483 sq ft",2574 Mulder St," Lemon Grove, CA 91945",Lemon Grove
+"$819,000",3 beds,2 baths,"1,683 sq ft",7812 Longdale Dr," Lemon Grove, CA 91945",Lemon Grove
+"$799,000",3 beds,2 baths,"1,405 sq ft",7249 Central Ave," Lemon Grove, CA 91945",Lemon Grove
+"$799,000",3 beds,2 baths,"1,235 sq ft",1827 Costada Ct," Lemon Grove, CA 91945",Lemon Grove
+"$899,000",2 beds,1 bath,832 sq ft,7442 Daytona St," Lemon Grove, CA 91945",Lemon Grove
+"$785,000",3 beds,2 baths,"1,533 sq ft",1723 Madera St," Lemon Grove, CA 91945",Lemon Grove
+"$846,000",3 beds,3.5 baths,"2,079 sq ft",8532 Vista Azul Pl," Lemon Grove, CA 91945",Lemon Grove
+"$800,000",3 beds,2 baths,"1,505 sq ft",2678 Buena Vista Ave," Lemon Grove, CA 91945",Lemon Grove
+"$836,000",3 beds,2.5 baths,"1,906 sq ft",8579 Vista Azul Pl," Lemon Grove, CA 91945",Lemon Grove
+"$856,000",3 beds,3.5 baths,"2,079 sq ft",8540 Vista Azul Pl," Lemon Grove, CA 91945",Lemon Grove
+"$829,999",3 beds,2 baths,"1,270 sq ft",3212 Meadow Ln," Lemon Grove, CA 91945",Lemon Grove
+"$749,900",4 beds,2 baths,"1,356 sq ft",1666 Walbollen St," Spring Valley, CA 91977",Lemon Grove
+"$724,999",3 beds,2 baths,"1,196 sq ft",8669 Via Del Luz," El Cajon, CA 92021",Lakeside
+"$774,900",3 beds,2 baths,"1,038 sq ft",10748 Palm Row," Lakeside, CA 92040",Lakeside
+"$825,000",3 beds,2 baths,"1,468 sq ft",9108 Gideon Cir N," Lakeside, CA 92040",Lakeside
+"$899,000",3 beds,2 baths,"1,840 sq ft",12208 Lakeside Ave," Lakeside, CA 92040",Lakeside
+"$925,000",3 beds,2 baths,"1,726 sq ft",13188 Casa Grande Ave," Lakeside, CA 92040",Lakeside
+"$1,149,900",3 beds,2 baths,"2,475 sq ft",11128 Pinehurst Dr," Lakeside, CA 92040",Lakeside
+"$1,179,000",4 beds,4 baths,"2,361 sq ft",12036 Serena Rd," Lakeside, CA 92040",Lakeside
+"$825,000",3 beds,2 baths,"1,185 sq ft",13504 Willow Rd," Lakeside, CA 92040",Lakeside
+"$825,000",5 beds,2 baths,"2,484 sq ft",8719 Gardena Rd," Lakeside, CA 92040",Lakeside
+"$945,000",3 beds,2 baths,"1,945 sq ft",8861 Los Coches Rd #1," Lakeside, CA 92040",Lakeside
+"$815,000",3 beds,2 baths,"1,338 sq ft",10351 Paseo Park Dr," Lakeside, CA 92040",Lakeside
+"$1,100,000",4 beds,3 baths,"2,438 sq ft",10601 Vista Camino," Lakeside, CA 92040",Lakeside
+"$875,000",3 beds,2 baths,"1,189 sq ft",8543 Via Consuelo," El Cajon, CA 92021",Lakeside
+"$875,000",3 beds,2 baths,"1,517 sq ft",9314 Los Coches Rd," Lakeside, CA 92040",Lakeside
+"$1,250,000",3 beds,2.5 baths,"2,926 sq ft",12649 Via Vigneto," Lakeside, CA 92040",Lakeside
+"$790,000",3 beds,2 baths,"1,456 sq ft",12882 Castle Court Dr," Lakeside, CA 92040",Lakeside
+"$1,431,000",4 beds,3.5 baths,"2,700 sq ft",9252 Old Farmhouse Rd," Lakeside, CA 92040",Lakeside
+"$1,149,999",4 beds,3.5 baths,"2,330 sq ft",9448 Emerald Grove Ave," Lakeside, CA 92040",Lakeside
+"$1,250,000",4 beds,3.5 baths,"3,266 sq ft",Plan 4 Plan," Lakeside, CA 92040",Lakeside
+"$1,249,500",3 beds,3 baths,"1,820 sq ft",9140 Paradise Park Dr," Lakeside, CA 92040",Lakeside
+"$1,195,000",5 beds,3 baths,"2,867 sq ft",9442 Cherisse Ln," El Cajon, CA 92021",Lakeside
+"$949,900",4 beds,2 baths,"2,009 sq ft",13499 Khuram St," Lakeside, CA 92040",Lakeside
+"$769,900",3 beds,2 baths,"1,242 sq ft",10370 PASEO PARK Dr," Lakeside, CA 92040",Lakeside
+"$925,000",4 beds,3 baths,"1,926 sq ft",8406 Alado Pl," El Cajon, CA 92021",Lakeside
+"$999,000",5 beds,3 baths,"2,650 sq ft",12049 Coping Pl," Lakeside, CA 92040",Lakeside
+"$1,199,000",5 beds,3.5 baths,"2,966 sq ft",11580 Manzanita Rd," Lakeside, CA 92040",Lakeside
+"$869,900",4 beds,2 baths,"1,592 sq ft",10250 New Bedford Ct," Lakeside, CA 92040",Lakeside
+"$553,000",2 beds,1 bath,664 sq ft,12161 Gay Rio Dr," Lakeside, CA 92040",Lakeside
+"$649,000",2 beds,1 bath,939 sq ft,8941 Lakeview Rd," Lakeside, CA 92040",Lakeside
+"$985,000",4 beds,2 baths,"1,920 sq ft",12466 Keemo Ter," Lakeside, CA 92040",Lakeside
+"$4,999,999",4 beds,3.5 baths,"3,864 sq ft",24949 Thunder Mountain Rd," Ramona, CA 92065",Lakeside
+"$1,650,000",8 beds,5 baths,"3,789 sq ft",9174 Winter Gardens Blvd," Lakeside, CA 92040",Lakeside
+"$899,000",4 beds,2.5 baths,"1,845 sq ft",13216 Cuyamaca Vista Dr," Lakeside, CA 92040",Lakeside
+"$865,000",2 beds,2 baths,"1,408 sq ft",11751 Rocky Ln," Lakeside, CA 92040",Lakeside
+"$1,189,000",4 beds,3 baths,"2,135 sq ft",13545 Teale Christine Ct," Lakeside, CA 92040",Lakeside
+"$850,000",4 beds,2 baths,"1,681 sq ft",13037 S Mountain Dr," Lakeside, CA 92040",Lakeside
+"$937,500",3 beds,3 baths,"2,612 sq ft",11724 Johnson Lake Rd," Lakeside, CA 92040",Lakeside
+"$2,400,000",4 beds,3 baths,"3,998 sq ft",11631 Via Trevi Lot 168," Lakeside, CA 92040",Lakeside
+"$895,000",3 beds,2.5 baths,"1,724 sq ft",11820 Gardena Ln," Lakeside, CA 92040",Lakeside
+"$840,000",3 beds,3 baths,"1,228 sq ft",9563 Riverview Ave," Lakeside, CA 92040",Lakeside
+"$724,999",3 beds,2 baths,"1,196 sq ft",8669 Via Del Luz," El Cajon, CA 92021",Lakeside
+"$774,900",3 beds,2 baths,"1,038 sq ft",10748 Palm Row," Lakeside, CA 92040",Lakeside
+"$825,000",3 beds,2 baths,"1,468 sq ft",9108 Gideon Cir N," Lakeside, CA 92040",Lakeside
+"$899,000",3 beds,2 baths,"1,840 sq ft",12208 Lakeside Ave," Lakeside, CA 92040",Lakeside
+"$925,000",3 beds,2 baths,"1,726 sq ft",13188 Casa Grande Ave," Lakeside, CA 92040",Lakeside
+"$1,149,900",3 beds,2 baths,"2,475 sq ft",11128 Pinehurst Dr," Lakeside, CA 92040",Lakeside
+"$1,179,000",4 beds,4 baths,"2,361 sq ft",12036 Serena Rd," Lakeside, CA 92040",Lakeside
+"$825,000",3 beds,2 baths,"1,185 sq ft",13504 Willow Rd," Lakeside, CA 92040",Lakeside
+"$825,000",5 beds,2 baths,"2,484 sq ft",8719 Gardena Rd," Lakeside, CA 92040",Lakeside
+"$945,000",3 beds,2 baths,"1,945 sq ft",8861 Los Coches Rd #1," Lakeside, CA 92040",Lakeside
+"$815,000",3 beds,2 baths,"1,338 sq ft",10351 Paseo Park Dr," Lakeside, CA 92040",Lakeside
+"$1,100,000",4 beds,3 baths,"2,438 sq ft",10601 Vista Camino," Lakeside, CA 92040",Lakeside
+"$875,000",3 beds,2 baths,"1,189 sq ft",8543 Via Consuelo," El Cajon, CA 92021",Lakeside
+"$875,000",3 beds,2 baths,"1,517 sq ft",9314 Los Coches Rd," Lakeside, CA 92040",Lakeside
+"$1,250,000",3 beds,2.5 baths,"2,926 sq ft",12649 Via Vigneto," Lakeside, CA 92040",Lakeside
+"$790,000",3 beds,2 baths,"1,456 sq ft",12882 Castle Court Dr," Lakeside, CA 92040",Lakeside
+"$1,431,000",4 beds,3.5 baths,"2,700 sq ft",9252 Old Farmhouse Rd," Lakeside, CA 92040",Lakeside
+"$1,149,999",4 beds,3.5 baths,"2,330 sq ft",9448 Emerald Grove Ave," Lakeside, CA 92040",Lakeside
+"$1,250,000",4 beds,3.5 baths,"3,266 sq ft",Plan 4 Plan," Lakeside, CA 92040",Lakeside
+"$1,249,500",3 beds,3 baths,"1,820 sq ft",9140 Paradise Park Dr," Lakeside, CA 92040",Lakeside
+"$1,195,000",5 beds,3 baths,"2,867 sq ft",9442 Cherisse Ln," El Cajon, CA 92021",Lakeside
+"$949,900",4 beds,2 baths,"2,009 sq ft",13499 Khuram St," Lakeside, CA 92040",Lakeside
+"$769,900",3 beds,2 baths,"1,242 sq ft",10370 PASEO PARK Dr," Lakeside, CA 92040",Lakeside
+"$925,000",4 beds,3 baths,"1,926 sq ft",8406 Alado Pl," El Cajon, CA 92021",Lakeside
+"$999,000",5 beds,3 baths,"2,650 sq ft",12049 Coping Pl," Lakeside, CA 92040",Lakeside
+"$1,199,000",5 beds,3.5 baths,"2,966 sq ft",11580 Manzanita Rd," Lakeside, CA 92040",Lakeside
+"$869,900",4 beds,2 baths,"1,592 sq ft",10250 New Bedford Ct," Lakeside, CA 92040",Lakeside
+"$553,000",2 beds,1 bath,664 sq ft,12161 Gay Rio Dr," Lakeside, CA 92040",Lakeside
+"$649,000",2 beds,1 bath,939 sq ft,8941 Lakeview Rd," Lakeside, CA 92040",Lakeside
+"$985,000",4 beds,2 baths,"1,920 sq ft",12466 Keemo Ter," Lakeside, CA 92040",Lakeside
+"$4,999,999",4 beds,3.5 baths,"3,864 sq ft",24949 Thunder Mountain Rd," Ramona, CA 92065",Lakeside
+"$1,650,000",8 beds,5 baths,"3,789 sq ft",9174 Winter Gardens Blvd," Lakeside, CA 92040",Lakeside
+"$899,000",4 beds,2.5 baths,"1,845 sq ft",13216 Cuyamaca Vista Dr," Lakeside, CA 92040",Lakeside
+"$865,000",2 beds,2 baths,"1,408 sq ft",11751 Rocky Ln," Lakeside, CA 92040",Lakeside
+"$1,189,000",4 beds,3 baths,"2,135 sq ft",13545 Teale Christine Ct," Lakeside, CA 92040",Lakeside
+"$850,000",4 beds,2 baths,"1,681 sq ft",13037 S Mountain Dr," Lakeside, CA 92040",Lakeside
+"$937,500",3 beds,3 baths,"2,612 sq ft",11724 Johnson Lake Rd," Lakeside, CA 92040",Lakeside
+"$2,400,000",4 beds,3 baths,"3,998 sq ft",11631 Via Trevi Lot 168," Lakeside, CA 92040",Lakeside
+"$895,000",3 beds,2.5 baths,"1,724 sq ft",11820 Gardena Ln," Lakeside, CA 92040",Lakeside
+"$840,000",3 beds,3 baths,"1,228 sq ft",9563 Riverview Ave," Lakeside, CA 92040",Lakeside
+"$1,395,000",3 beds,3.5 baths,"2,586 sq ft",12264 Via Ruscello," Lakeside, CA 92040",Lakeside
+"$1,150,000",3 beds,2.5 baths,"2,242 sq ft",Plan 1 Plan," Lakeside, CA 92040",Lakeside
+"$1,400,000",3 beds,2.5 baths,"2,227 sq ft",11928 Via Trevi," Lakeside, CA 92040",Lakeside
+"$1,350,000",4 beds,3.5 baths,"2,775 sq ft",Plan 3 Plan," Lakeside, CA 92040",Lakeside
+"$1,650,000",4 beds,3.5 baths,"3,059 sq ft",12087 Via Trevi," Lakeside, CA 92040",Lakeside
+"$1,249,999",4 beds,2 baths,"2,184 sq ft",13138 Julian Ave," Lakeside, CA 92040",Lakeside
+"$820,000",3 beds,2 baths,"1,736 sq ft",11367 Topo Ln," Lakeside, CA 92040",Lakeside
+"$2,290,000",7 beds,6 baths,"3,350 sq ft",12630 Calle De Rob," Poway, CA 92064",Lakeside
+"$860,000",4 beds,3 baths,"2,076 sq ft",13220 Cuyamaca Vista Dr," Lakeside, CA 92040",Lakeside
+"$1,350,000",4 beds,2 baths,"2,601 sq ft",12635 Via Vigneto Lot 42," Lakeside, CA 92040",Lakeside
+"$765,000",3 beds,2 baths,"1,274 sq ft",8715 Vista Del Verde," El Cajon, CA 92021",Lakeside
+"$1,399,000",3 beds,3.5 baths,"2,665 sq ft",12252 Via Ruscello Lot 71," Lakeside, CA 92040",Lakeside
+"$999,999",4 beds,4 baths,"1,925 sq ft",9903 Lindo Lake Pl," Lakeside, CA 92040",Lakeside
+"$849,900",4 beds,2 baths,"1,680 sq ft",1673 Walbollen St," Spring Valley, CA 91977",Spring Valley
+"$1,350,000",4 beds,4 baths,"3,100 sq ft",9497 Montemar Dr," Spring Valley, CA 91977",Spring Valley
+"$839,000",4 beds,2 baths,"1,489 sq ft",9860 Costa Lago St," Spring Valley, CA 91977",Spring Valley
+"$834,900",3 beds,2 baths,"1,270 sq ft",10410 Fairhill Dr," Spring Valley, CA 91977",Spring Valley
+"$799,000",4 beds,2 baths,"1,614 sq ft",139 Lechuza Ln," Spring Valley, CA 91977",Spring Valley
+"$1,300,000",5 beds,2.5 baths,"2,740 sq ft",3153 Pine Ln," Spring Valley, CA 91978",Spring Valley
+"$1,125,000",5 beds,3.5 baths,"2,729 sq ft",1644 Avenue," Spring Valley, CA 91977",Spring Valley
+"$790,000",2 beds,1 bath,"1,503 sq ft",9909 San Cristobal Rd," Spring Valley, CA 91977",Spring Valley
+"$829,000",3 beds,2 baths,"1,444 sq ft",10439 Elmdale," Spring Valley, CA 91977",Spring Valley
+"$1,100,000",5 beds,4 baths,"3,170 sq ft",10463 Celestial Waters Dr," Spring Valley, CA 91977",Spring Valley
+"$789,000",3 beds,2 baths,"1,162 sq ft",3465 Par Dr," La Mesa, CA 91941",Spring Valley
+"$839,000",5 beds,2.5 baths,"1,896 sq ft",1412 San Miguel Ave," Spring Valley, CA 91977",Spring Valley
+"$699,900",4 beds,2.5 baths,"1,565 sq ft",2226 Ledgeview Ln," Spring Valley, CA 91977",Spring Valley
+"$739,000",3 beds,1 bath,"1,120 sq ft",9753 Ivanho St," Spring Valley, CA 91977",Spring Valley
+"$729,000",3 beds,1 bath,"1,012 sq ft",8941 Switzer Dr," Spring Valley, CA 91977",Spring Valley
+"$789,999",3 beds,2 baths,"1,364 sq ft",151 Demona Pl," Spring Valley, CA 91977",Spring Valley
+"$929,000",3 beds,2.5 baths,"2,011 sq ft",2967 Shady Pine St," Spring Valley, CA 91978",Spring Valley
+"$885,000",3 beds,2.5 baths,"2,011 sq ft",10477 Pine Grv," Spring Valley, CA 91978",Spring Valley
+"$599,000",2 beds,2 baths,"1,140 sq ft",10411 San Carlos Dr," Spring Valley, CA 91978",Spring Valley
+"$1,299,000",4 beds,3 baths,"2,434 sq ft",3669 Calavo Dr," Spring Valley, CA 91977",Spring Valley
+"$899,000",4 beds,3 baths,"2,328 sq ft",9170 Circulo Margen," Spring Valley, CA 91977",Spring Valley
+"$950,000",4 beds,3 baths,"1,971 sq ft",3775 Kenwood Ct," Spring Valley, CA 91977",Spring Valley
+"$974,900",4 beds,2 baths,"2,000 sq ft",3943 Nereis Dr," La Mesa, CA 91941",Spring Valley
+"$800,000",3 beds,2 baths,"1,364 sq ft",10875 Buggywhip Dr," Spring Valley, CA 91978",Spring Valley
+"$750,000",3 beds,2.5 baths,"1,916 sq ft",1511 Cuyamaca Ave," Spring Valley, CA 91977",Spring Valley
+"$719,999",3 beds,2 baths,"1,286 sq ft",813 La Presa Ave," Spring Valley, CA 91977",Spring Valley
+"$1,450,000",5 beds,3 baths,"2,954 sq ft",9221 Helix Mesa Way," La Mesa, CA 91977",Spring Valley
+"$859,000",5 beds,2 baths,"1,800 sq ft",421 Felicita Ave," Spring Valley, CA 91977",Spring Valley
+"$745,000",3 beds,2 baths,"1,188 sq ft",8614 Tyler St," Spring Valley, CA 91977",Spring Valley
+"$895,000",3 beds,2.5 baths,"1,728 sq ft",9811 Eucalyptus St," Spring Valley, CA 91977",Spring Valley
+"$780,876",3 beds,2 baths,"1,188 sq ft",1215 Grand Ave," Spring Valley, CA 91977",Spring Valley
+"$1,000,000",5 beds,3 baths,"1,732 sq ft",10229 Del Rio Rd," Spring Valley, CA 91977",Spring Valley
+"$699,000",3 beds,2 baths,936 sq ft,1307 Coronado Ave," Spring Valley, CA 91977",Spring Valley
+"$785,000",3 beds,2 baths,987 sq ft,821 Maria Ave," Spring Valley, CA 91977",Spring Valley
+"$1,250,000",4 beds,2 baths,"1,935 sq ft",3952 Agua Dulce Blvd," Spring Valley, CA 91977",Spring Valley
+"$1,250,000",4 beds,2.5 baths,"2,733 sq ft",10394 Valley Waters Dr," Spring Valley, CA 91978",Spring Valley
+"$700,000",3 beds,2.5 baths,"1,380 sq ft",733 Sacramento Ave," Spring Valley, CA 91977",Spring Valley
+"$750,000",4 beds,2.5 baths,"2,318 sq ft",1111 La Mesa Ave," Spring Valley, CA 91977",Spring Valley
+"$825,000",3 beds,2 baths,"1,014 sq ft",8806 Lamar St," Spring Valley, CA 91977",Spring Valley
+"$836,000",3 beds,2.5 baths,"1,906 sq ft",8579 Vista Azul Pl," Lemon Grove, CA 91945",Spring Valley
+"$849,900",4 beds,2 baths,"1,680 sq ft",1673 Walbollen St," Spring Valley, CA 91977",Spring Valley
+"$1,350,000",4 beds,4 baths,"3,100 sq ft",9497 Montemar Dr," Spring Valley, CA 91977",Spring Valley
+"$839,000",4 beds,2 baths,"1,489 sq ft",9860 Costa Lago St," Spring Valley, CA 91977",Spring Valley
+"$834,900",3 beds,2 baths,"1,270 sq ft",10410 Fairhill Dr," Spring Valley, CA 91977",Spring Valley
+"$799,000",4 beds,2 baths,"1,614 sq ft",139 Lechuza Ln," Spring Valley, CA 91977",Spring Valley
+"$1,300,000",5 beds,2.5 baths,"2,740 sq ft",3153 Pine Ln," Spring Valley, CA 91978",Spring Valley
+"$1,125,000",5 beds,3.5 baths,"2,729 sq ft",1644 Avenue," Spring Valley, CA 91977",Spring Valley
+"$790,000",2 beds,1 bath,"1,503 sq ft",9909 San Cristobal Rd," Spring Valley, CA 91977",Spring Valley
+"$829,000",3 beds,2 baths,"1,444 sq ft",10439 Elmdale," Spring Valley, CA 91977",Spring Valley
+"$1,100,000",5 beds,4 baths,"3,170 sq ft",10463 Celestial Waters Dr," Spring Valley, CA 91977",Spring Valley
+"$789,000",3 beds,2 baths,"1,162 sq ft",3465 Par Dr," La Mesa, CA 91941",Spring Valley
+"$839,000",5 beds,2.5 baths,"1,896 sq ft",1412 San Miguel Ave," Spring Valley, CA 91977",Spring Valley
+"$699,900",4 beds,2.5 baths,"1,565 sq ft",2226 Ledgeview Ln," Spring Valley, CA 91977",Spring Valley
+"$739,000",3 beds,1 bath,"1,120 sq ft",9753 Ivanho St," Spring Valley, CA 91977",Spring Valley
+"$729,000",3 beds,1 bath,"1,012 sq ft",8941 Switzer Dr," Spring Valley, CA 91977",Spring Valley
+"$789,999",3 beds,2 baths,"1,364 sq ft",151 Demona Pl," Spring Valley, CA 91977",Spring Valley
+"$929,000",3 beds,2.5 baths,"2,011 sq ft",2967 Shady Pine St," Spring Valley, CA 91978",Spring Valley
+"$885,000",3 beds,2.5 baths,"2,011 sq ft",10477 Pine Grv," Spring Valley, CA 91978",Spring Valley
+"$599,000",2 beds,2 baths,"1,140 sq ft",10411 San Carlos Dr," Spring Valley, CA 91978",Spring Valley
+"$1,299,000",4 beds,3 baths,"2,434 sq ft",3669 Calavo Dr," Spring Valley, CA 91977",Spring Valley
+"$899,000",4 beds,3 baths,"2,328 sq ft",9170 Circulo Margen," Spring Valley, CA 91977",Spring Valley
+"$950,000",4 beds,3 baths,"1,971 sq ft",3775 Kenwood Ct," Spring Valley, CA 91977",Spring Valley
+"$974,900",4 beds,2 baths,"2,000 sq ft",3943 Nereis Dr," La Mesa, CA 91941",Spring Valley
+"$800,000",3 beds,2 baths,"1,364 sq ft",10875 Buggywhip Dr," Spring Valley, CA 91978",Spring Valley
+"$750,000",3 beds,2.5 baths,"1,916 sq ft",1511 Cuyamaca Ave," Spring Valley, CA 91977",Spring Valley
+"$719,999",3 beds,2 baths,"1,286 sq ft",813 La Presa Ave," Spring Valley, CA 91977",Spring Valley
+"$1,450,000",5 beds,3 baths,"2,954 sq ft",9221 Helix Mesa Way," La Mesa, CA 91977",Spring Valley
+"$859,000",5 beds,2 baths,"1,800 sq ft",421 Felicita Ave," Spring Valley, CA 91977",Spring Valley
+"$745,000",3 beds,2 baths,"1,188 sq ft",8614 Tyler St," Spring Valley, CA 91977",Spring Valley
+"$895,000",3 beds,2.5 baths,"1,728 sq ft",9811 Eucalyptus St," Spring Valley, CA 91977",Spring Valley
+"$780,876",3 beds,2 baths,"1,188 sq ft",1215 Grand Ave," Spring Valley, CA 91977",Spring Valley
+"$1,000,000",5 beds,3 baths,"1,732 sq ft",10229 Del Rio Rd," Spring Valley, CA 91977",Spring Valley
+"$699,000",3 beds,2 baths,936 sq ft,1307 Coronado Ave," Spring Valley, CA 91977",Spring Valley
+"$785,000",3 beds,2 baths,987 sq ft,821 Maria Ave," Spring Valley, CA 91977",Spring Valley
+"$1,250,000",4 beds,2 baths,"1,935 sq ft",3952 Agua Dulce Blvd," Spring Valley, CA 91977",Spring Valley
+"$1,250,000",4 beds,2.5 baths,"2,733 sq ft",10394 Valley Waters Dr," Spring Valley, CA 91978",Spring Valley
+"$700,000",3 beds,2.5 baths,"1,380 sq ft",733 Sacramento Ave," Spring Valley, CA 91977",Spring Valley
+"$750,000",4 beds,2.5 baths,"2,318 sq ft",1111 La Mesa Ave," Spring Valley, CA 91977",Spring Valley
+"$825,000",3 beds,2 baths,"1,014 sq ft",8806 Lamar St," Spring Valley, CA 91977",Spring Valley
+"$836,000",3 beds,2.5 baths,"1,906 sq ft",8579 Vista Azul Pl," Lemon Grove, CA 91945",Spring Valley
+"$669,000",3 beds,2 baths,"1,400 sq ft",10111 NORTE MESA Dr," Spring Valley, CA 91977",Spring Valley
+"$749,900",4 beds,2 baths,"1,356 sq ft",1666 Walbollen St," Spring Valley, CA 91977",Spring Valley
+"$835,000",4 beds,3 baths,"1,861 sq ft",9018 outinda," Spring Valley, CA 91977",Spring Valley
+"$749,000",3 beds,3 baths,"1,994 sq ft",646 Parkbrook St," Spring Valley, CA 91977",Spring Valley
+"$849,999",4 beds,2 baths,"1,558 sq ft",2020 Ildica Way," Spring Valley, CA 91977",Spring Valley
+"$886,000",3 beds,3 baths,"1,797 sq ft",351 Maria Ave," Spring Valley, CA 91977",Spring Valley
+"$1,099,900",4 beds,3 baths,"1,794 sq ft",1131 Ramona Ave," Spring Valley, CA 91977",Spring Valley
+"$1,050,000",3 beds,2.5 baths,"2,144 sq ft",9306 Hollyhock Rd," Spring Valley, CA 91977",Spring Valley
+"$1,300,000",2 beds,2 baths,"1,018 sq ft",9108 Birch St," Spring Valley, CA 91977",Spring Valley
+"$1,300,000",3 beds,1.5 baths,"1,356 sq ft",9120 Birch St," Spring Valley, CA 91977",Spring Valley
+"$815,000",4 beds,2 baths,"1,697 sq ft",8115 Cacus," Spring Valley, CA 91977",Spring Valley
+"$1,050,000",6 beds,5 baths,"3,242 sq ft",1830 Helix St," Spring Valley, CA 91977",Spring Valley
+"$1,700,000",4 beds,2.5 baths,"3,347 sq ft",Sign in for address," Spring Valley, CA 91977",Spring Valley
+"$1,150,000",3 beds,3 baths,"1,904 sq ft",3221 S Bonita St," Spring Valley, CA 91977",Spring Valley
+"$749,900",4 beds,2 baths,"1,686 sq ft",1065 Peutz Valley Rd," Alpine, CA 91901",Alpine
+"$1,175,000",5 beds,3 baths,"2,700 sq ft",2211 Honey Oak Ln," Alpine, CA 91901",Alpine
+"$520,000",2 beds,1 bath,780 sq ft,1663 Alpine Terrace Rd," Alpine, CA 91901",Alpine
+"$1,349,000",4 beds,3.5 baths,"2,800 sq ft",756 Hale Dr," Alpine, CA 91901",Alpine
+"$1,575,000",5 beds,4 baths,"4,393 sq ft",4046 Via Palo Verde Lago," Alpine, CA 91901",Alpine
+"$1,390,000",3 beds,2.5 baths,"3,326 sq ft",2302 SHAYLENE Way," Alpine, CA 91901",Alpine
+"$1,299,000",5 beds,3.5 baths,"2,398 sq ft",9848-50 Vista Viejas," Alpine, CA 91901",Alpine
+"$2,799,000",5 beds,6 baths,"5,694 sq ft",2184 Pacific Crest Dr," Alpine, CA 91901",Alpine
+"$999,000",4 beds,2.5 baths,"2,720 sq ft",1619 Roble Grande Rd," Alpine, CA 91901",Alpine
+"$4,495,900",4 beds,3 baths,"1,646 sq ft",19150 High Gln," Alpine, CA 91901",Alpine
+"$1,150,000",3 beds,2 baths,"2,336 sq ft",352 Sneath Way," Alpine, CA 91901",Alpine
+"$995,000",3 beds,2 baths,"1,879 sq ft",668 Starbright Ln," Alpine, CA 91901",Alpine
+"$1,399,000",4 beds,2.5 baths,"2,743 sq ft",2647 Collado Corte," Alpine, CA 91901",Alpine
+"$1,250,000",4 beds,3 baths,"2,591 sq ft",1019 bremen Way," Alpine, CA 91901",Alpine
+"$1,249,900",6 beds,3.5 baths,"3,242 sq ft",477 Summerhill Vw," Alpine, CA 91901",Alpine
+"$999,000",5 beds,2.5 baths,"2,224 sq ft",2284 Marquand Ct," Alpine, CA 91901",Alpine
+"$959,000",5 beds,4 baths,"1,725 sq ft",1168 Alpine Hts," Alpine, CA 91901",Alpine
+"$6,299,999",6 beds,7 baths,"6,264 sq ft",4065 Via Palo Verde Lago," Alpine, CA 91901",Alpine
+"$1,499,995",4 beds,2.5 baths,"3,263 sq ft",6433 Dehesa Rd," El Cajon, CA 92019",Alpine
+"$1,395,000",5 beds,3.5 baths,"4,060 sq ft",2016 S Grade Rd," Alpine, CA 91901",Alpine
+"$949,900",5 beds,3 baths,"2,078 sq ft",1215 Arnold Way," Alpine, CA 91901",Alpine
+"$1,190,000",6 beds,4 baths,"2,521 sq ft",22815 Illahee Dr #17," Alpine, CA 91901",Alpine
+"$719,900",2 beds,2 baths,"2,755 sq ft",19832 Japatul Rd," Alpine, CA 91901",Alpine
+"$1,325,000",3 beds,3 baths,"4,333 sq ft",2449 Nido Aguila," Alpine, CA 91901",Alpine
+"$1,999,999",7 beds,6 baths,"4,456 sq ft",23611 Old Ranch Rd," Alpine, CA 91901",Alpine
+"$999,999",5 beds,3 baths,"2,112 sq ft",2638 W Victoria Dr," Alpine, CA 91901",Alpine
+"$1,100,000",4 beds,2 baths,"3,033 sq ft",2962 Viejas View Pl," Alpine, CA 91901",Alpine
+"$3,750,000",4 beds,3 baths,"2,948 sq ft",2576 Dortmund Pl," Alpine, CA 91901",Alpine
+"$965,500",4 beds,2 baths,"2,046 sq ft",914 S Grade Rd," Alpine, CA 91901",Alpine
+"$2,500,000",7 beds,6.5 baths,"4,800 sq ft",2715 Via Chinarros," Alpine, CA 91901",Alpine
+"$1,750,000",4 beds,4.5 baths,"3,994 sq ft",2412 Deland Dr," Alpine, CA 91901",Alpine
+"$835,000",3 beds,2 baths,"2,000 sq ft",4826 Hidden Glen Dr," Alpine, CA 91901",Alpine
+"$2,895,000",3 beds,2.5 baths,"3,531 sq ft",21916 Japatul Ln," Alpine, CA 91901",Alpine
+"$1,300,000",5 beds,2.5 baths,"2,740 sq ft",3153 Pine Ln," Spring Valley, CA 91978",Jamul
+"$1,199,000",4 beds,3 baths,"1,908 sq ft",2540 Sawgrass St," El Cajon, CA 92019",Jamul
+"$2,200,000",5 beds,5.5 baths,"3,917 sq ft",15815 Indian Valley Rd," Jamul, CA 91935",Jamul
+"$1,799,000",5 beds,4.5 baths,"4,327 sq ft",3525 Fern Canyon Rd," Jamul, CA 91935",Jamul
+"$1,950,000",4 beds,4 baths,"3,263 sq ft",13613 Hillside Estates Dr," Jamul, CA 91935",Jamul
+"$1,049,000",3 beds,2 baths,"2,381 sq ft",3110 Rio Madre," Jamul, CA 91935",Jamul
+"$699,900",3 beds,2 baths,"1,620 sq ft",20855 Cinnamon Dr," Jamul, CA 91935",Jamul
+"$3,595,000",8 beds,7 baths,"7,373 sq ft",3307 Wentworth Dr," Jamul, CA 91935",Jamul
+"$1,349,000",4 beds,4 baths,"3,445 sq ft",3646 Hidden Rdg," Jamul, CA 91935",Jamul
+"$1,495,000",5 beds,3 baths,"3,532 sq ft",14797 Wild Colt Pl," Jamul, CA 91935",Jamul
+"$1,149,000",5 beds,4 baths,"3,157 sq ft",14404 Hillside Dr," Jamul, CA 91935",Jamul
+"$1,699,999",4 beds,3 baths,"2,519 sq ft",2945 Stonefield Dr," Jamul, CA 91935",Jamul
+"$1,297,888",7 beds,5 baths,"3,736 sq ft",2639 Bratton Valley Rd," Jamul, CA 91935",Jamul
+"$399,900",2 beds,1 bath,704 sq ft,17869 Lyons Valley Rd," Jamul, CA 91935",Jamul
+"$920,000",5 beds,3 baths,"3,046 sq ft",20591 Sycamore Springs Rd," Jamul, CA 91935",Jamul
+"$1,395,000",5 beds,3.5 baths,"4,600 sq ft",13504 Hillside Ests," Jamul, CA 91935",Jamul
+"$1,170,000",6 beds,3 baths,"2,680 sq ft",13764 Jamul Dr," Jamul, CA 91935",Jamul
+"$1,555,000",5 beds,4 baths,"3,379 sq ft",15430 Pallux Star Ct," Jamul, CA 91935",Jamul
+"$1,799,000",4 beds,3 baths,"3,195 sq ft",3219 Greystone Dr," Jamul, CA 91935",Jamul
+"$949,000",3 beds,2.5 baths,"2,680 sq ft",2410 Mount Elena Way," Jamul, CA 91935",Jamul
+"$2,750,000",5 beds,4.5 baths,"5,902 sq ft",14949 Presilla Dr," Jamul, CA 91935",Jamul
+"$1,350,000",4 beds,3.5 baths,"3,452 sq ft",3248 Vista Diego Rd," Jamul, CA 91935",Jamul
+"$985,000",3 beds,2.5 baths,"3,400 sq ft",20530 Bexley Rd," Jamul, CA 91935",Jamul
